@@ -15,16 +15,16 @@ This repository includes my course work for the machine learning Course SBE3042.
     3-  compare between the implementation and scikit-builtin model using accuracy metrics and time
 ### A4: Decision trees and regression
     1- visualizing Trees
+![image](https://github.com/Salmoon8/Machine-Learning-Tasks-/assets/93344447/7bc97e02-fe8a-46ec-ac95-8ed3b8078afb) 
     2- Grid search and cross validation
     3- Decision Boundaries
-![image](https://github.com/Salmoon8/Machine-Learning-Tasks-/assets/93344447/7bc97e02-fe8a-46ec-ac95-8ed3b8078afb) 
 ![image](https://github.com/Salmoon8/Machine-Learning-Tasks-/assets/93344447/0a18b0bc-026f-4dfc-812e-35028c5fb064)
 ### A5: Clustering
     1- implement Kmeansm kemdoids and elbow method.
-    ![image](https://github.com/Salmoon8/Machine-Learning-Tasks-/assets/93344447/f77b2ad6-28f6-4546-b01b-d5f36b7d23f1)
+![image](https://github.com/Salmoon8/Machine-Learning-Tasks-/assets/93344447/f77b2ad6-28f6-4546-b01b-d5f36b7d23f1)
 
     2- DBSCAN clustering
-    ![image](https://github.com/Salmoon8/Machine-Learning-Tasks-/assets/93344447/82a381bd-b7cd-4617-aecc-856d31282c39)
+![image](https://github.com/Salmoon8/Machine-Learning-Tasks-/assets/93344447/82a381bd-b7cd-4617-aecc-856d31282c39)
 
 
 
