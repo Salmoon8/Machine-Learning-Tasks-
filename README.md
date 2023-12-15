@@ -41,7 +41,7 @@ This repository includes my course work for the machine learning Course SBE3042.
 
     3- hyperparameter tuning 
 ### A7: recommender system
-    1-Movie recommender system using Cosine similarity approach
+    1- Movie recommender system using Cosine similarity approach
     2- get recommendation according to similar users or similar movies
     
 
